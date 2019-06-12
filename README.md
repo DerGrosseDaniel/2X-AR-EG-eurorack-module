@@ -32,4 +32,5 @@ resistors :
 
 
 Look Mum No Computer stripboard schematics :
+
 https://www.lookmumnocomputer.com/projects#/simple-envelope-generator
